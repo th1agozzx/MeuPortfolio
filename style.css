@@ -379,7 +379,7 @@ a{
     font-size: 2rem;
 }
 .input-box input::placeholder{
-    font-size: rem;
+    font-size: 1.8rem;
 }
 .input{
     position: relative;
